@@ -1,5 +1,3 @@
-# Machine_Learning_Specialization_DeepLearning.AI
-
 # Machine Learning  Specialization
 ## By **Andrew Ng, Stanford University and DeepLearning.ai**
 ## Offered in [**Coursera**](https://www.coursera.org/specializations/machine-learning-introduction)
@@ -13,7 +11,7 @@
 ## My Specilization Certificate 
 </br>
 
-![](Machine-Learning-Specialization-Coursera-4BECYAW92RGB.jpg)
+![]("C:\Users\hp\OneDrive\Desktop\Deep Learning.ai Certificates\Machine Learning Specialization Certification.pdf")
 
 ---
 
