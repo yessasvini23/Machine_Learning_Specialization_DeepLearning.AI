@@ -11,7 +11,7 @@
 ## My Specilization Certificate 
 </br>
 
-![]("C:\Users\hp\OneDrive\Desktop\Deep Learning.ai Certificates\Machine Learning Specialization Certification.pdf")
+![]("C:\Users\hp\OneDrive\Desktop\Q1 SCREENSHOTS\Machine Learning Specializaion Certificate.jpg")
 
 ---
 
